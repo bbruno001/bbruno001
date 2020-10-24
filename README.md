@@ -1,13 +1,13 @@
 ### Hi there 👋
-<img w src="https://www.canva.com/design/DAELh5PHxmg/KOMdEGjRv9j-LwupC52Kwg/view?utm_content=DAELh5PHxmg&utm_campaign=designshare&utm_medium=link&utm_source=viewer" />  
-
+- 🔭 I’m currently studying Software Engineering on <a src="https://inscricoes.estacio.br/" >Estácio</a>
+- 🌱 I’m currently learning Typescript
 <!--
 **bbruno001/bbruno001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
