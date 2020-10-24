@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img align="center" src="https://www.canva.com/design/DAELh5PHxmg/KOMdEGjRv9j-LwupC52Kwg/view?utm_content=DAELh5PHxmg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" />
 <!--
 **bbruno001/bbruno001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
