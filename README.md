@@ -1,4 +1,5 @@
 ### Hi there 👋
+
 - 🔭 I’m currently working on find an internship or junior position.
 - 🔭 I’m currently studying Software Engineering on <a href="https://inscricoes.estacio.br/">Estácio</a>.
 - 🌱 I’m currently learning Typescript.
