@@ -1,10 +1,6 @@
 ### Hi there 👋
-<div style="position: relative; width: 100%; height: 0; padding-top: 38.0488%;
- padding-bottom: 48px; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
- border-radius: 8px; will-change: transform;">
-  
-</div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAELh5PHxmg&#x2F;view?utm_content=DAELh5PHxmg&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener"></a>
+<img w src="https://www.canva.com/design/DAELh5PHxmg/KOMdEGjRv9j-LwupC52Kwg/view" />  
+
 <!--
 **bbruno001/bbruno001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
